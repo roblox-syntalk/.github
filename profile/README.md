@@ -1,12 +1,17 @@
 ## Syntalk
 
-### What is Syntalk?
-Syntalk is a Roblox-to-Discord chat bridge, allowing users to link a [Discord](https://discord.com) Server Channel with a [Roblox](https://roblox.com) game chat.
+### ❓ What is Syntalk?
+Syntalk is a Roblox-to-Discord chat bridge, allowing users to link a Discord™ Server Channel with a Roblox™ game chat.
 
 Actually Syntalk is in Private Alpha Development. Please join the Discord server for updates.
 
-### Contact
+### ✉ Contact
 Discord Server: TBD
+
+-------
+
+#### ⚠ Legal Disclaimer
+Syntalk is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Discord, Roblox or it's affiliates. All names, marks, emblems and images are registered trademarks of their respective owners.
 
 <!--
 
